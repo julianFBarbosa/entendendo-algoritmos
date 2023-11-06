@@ -6,9 +6,9 @@ Para isso Podemos utilizar como base a notação Big O (Big O Notation) que é u
 
 ### Big O Notation
 
-![Big O Notation Graph](1_KfZYFUT2OKfjekJlCeYvuQ.jpg)
+![Big O Notation Graph](assets/bigo-complexity.jpeg)
 
-#### Alguns das principais notações:
+**Alguns das principais notações:**
 
 ## O(1) (Constante)
 
