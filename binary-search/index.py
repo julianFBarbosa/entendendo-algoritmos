@@ -33,7 +33,7 @@ print(f"Element {target} found at index {result} in {binary_elapsed_time} second
 print("Starting to search for a item using list.index()")
 
 index_start_timer = time.time()
-result = my_list.index(target)
+result = my_list.index("hey")
 index_end_timer = time.time()
 
 index_elapsed_time = index_end_timer - index_start_timer
